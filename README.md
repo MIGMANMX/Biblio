@@ -2,6 +2,12 @@
 Biblioteca de herramientas
 
 ## Extensiones navegador
+### Wappalyzer
+https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg
+### HackTools
+https://chrome.google.com/webstore/detail/hack-tools/cmbndhnoonmghfofefkcccljbkdpamhi
+https://github.com/LasCC/HackTools/releases
+
 
 ## OSINT
 
